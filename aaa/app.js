@@ -1,1 +1,0 @@
-console.log("Hello world ten toi la thanh ")
